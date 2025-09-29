@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "ProggySquareSZ";
+    src: url("ProggySquareSZ.ttf") format("truetype");
+}
+
+
+body {
+    font-family: "ProggySquareSZ", "Brush Script MT", cursive;
+    font-size: 40px;
+}
